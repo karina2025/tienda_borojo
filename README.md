@@ -10,7 +10,7 @@ La tienda "La Tienda del Borojó" comercializa productos como:
 -Productos cosméticos (aceites)
 -Postres (helados)
 
-##El sistema maneja 5 colecciones principales:
+## El sistema maneja 5 colecciones principales:
 
 productos: Catálogo de productos con precios, stock y categorías
 clientes: Información de clientes con historial de compras
@@ -19,8 +19,8 @@ proveedores: Datos de proveedores por categoría
 inventario: Control de lotes y entradas de productos
 
 
-#Instrucciones para Ejecutar
-##Prerequisitos
+# Instrucciones para Ejecutar
+## Prerequisitos
 
 -MongoDB instalado en el sistema
 -MongoDB Shell (mongosh) disponible
