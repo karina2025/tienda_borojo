@@ -29,3 +29,30 @@ inventario: Control de lotes y entradas de productos
 # consultas 
 ## Inserción
 ![imagen](/consulta%201.jpeg)
+![imagen](/consulta%202.jpeg)
+
+## lectura
+![imagen](/consulta%203.jpeg)
+![imagen](/consulta%204.jpeg)
+
+## actualizacion
+![imagen](/consulta%205.jpeg)
+
+## eliminacion
+![imagen](/consulta%206.jpeg)
+
+## Consultas con Expresiones Regulares
+![imagen](/consulta%207.jpeg)
+![imagen](/consulta%208.jpeg)
+
+## Operadores en consultas sobre arrays
+![imagen](/consulta%209.jpeg)
+![imagen](/consulta%2010.jpeg)
+![imagen](/consulta%2011-1.jpeg)
+![imagen](/consulta%2011-2.jpeg)
+
+## Aggregation Framework con Pipelines
+![imagen](/consulta%2012.jpeg)
+![imagen](/consulta%2013-2.jpeg)
+![imagen](/consulta%2014-2.jpeg)
+
