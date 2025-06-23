@@ -39,7 +39,7 @@ bashmongosh
 
 5. Crear y usar la base de datos
 javascriptuse tienda_borojo
-## Prerequisitos
+
 
 -MongoDB instalado en el sistema
 -MongoDB Shell (mongosh) disponible
