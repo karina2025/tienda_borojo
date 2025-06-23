@@ -20,6 +20,7 @@ inventario: Control de lotes y entradas de productos
 
 
 # Instrucciones para Ejecutar
+para ejecutar las consultas en los scripts se encuentran los datos para 
 ## Prerequisitos
 
 -MongoDB instalado en el sistema
@@ -56,3 +57,6 @@ inventario: Control de lotes y entradas de productos
 ![imagen](/consulta%2013.jpeg)
 ![imagen](/comsulta%2014.jpeg)
 
+
+## realizado por :
+karina sanabria casas
