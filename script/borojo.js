@@ -2,7 +2,7 @@
 // Ejecutar este script en mongosh paso a paso
 
 // 1. CONECTAR Y CREAR LA BASE DE DATOS
-use tienda_borojo
+usetienda_borojo
 
 // 2. INSERTAR PRODUCTOS
 db.productos.insertMany([
