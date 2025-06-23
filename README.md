@@ -25,3 +25,6 @@ inventario: Control de lotes y entradas de productos
 -MongoDB instalado en el sistema
 -MongoDB Shell (mongosh) disponible
 -Git para clonar el repositorio
+
+#consultas 
+## Inserción
