@@ -53,6 +53,6 @@ inventario: Control de lotes y entradas de productos
 
 ## Aggregation Framework con Pipelines
 ![imagen](/consulta%2012.jpeg)
-![imagen](/consulta%2013-2.jpeg)
-![imagen](/consulta%2014-2.jpeg)
+![imagen](/consulta%2013.jpeg)
+![imagen](/comsulta%2014.jpeg)
 
