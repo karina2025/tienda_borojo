@@ -20,7 +20,20 @@ inventario: Control de lotes y entradas de productos
 
 
 # Instrucciones para Ejecutar
-para ejecutar las consultas en los scripts se encuentran los datos para 
+#Instalación y Configuración
+1. Clonar el repositorio
+bashgit clone [URL_DEL_REPOSITORIO]
+cd tienda-borojo
+2. Iniciar MongoDB
+bash# Si MongoDB está instalado como servicio
+sudo systemctl start mongod
+
+# O ejecutar directamente
+mongod --dbpath /ruta/a/tu/db
+3. Conectar a MongoDB Shell
+bashmongosh
+4. Crear y usar la base de datos
+javascriptuse tienda_borojo
 ## Prerequisitos
 
 -MongoDB instalado en el sistema
