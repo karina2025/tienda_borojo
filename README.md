@@ -26,5 +26,6 @@ inventario: Control de lotes y entradas de productos
 -MongoDB Shell (mongosh) disponible
 -Git para clonar el repositorio
 
-#consultas 
+# consultas 
 ## Inserción
+![imagen](/consulta%201.jpeg)
